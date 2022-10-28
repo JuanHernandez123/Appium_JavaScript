@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zqa-hackathon",
+  "private_key_id": "28f81f18674ec06c1319d4751e114203fc74e80a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDB4wZEgJegWMPe\nhnG9fJjXWKJALaDQN5rjJG2oh2/1aL96CLOztFYUOnACtBDuDnSaZQDd44cLNivq\n9vNKKJX6bIsNIPGiB9yyYQUiTQoZVp39ac/ue6WdNi/kkunpCon5gq7N7LwiL8pC\nHI5xl8OSjLoEKjXc04oXfmBWhF+3JXZ9jxNWSHPTMAO6Y2OTiV7WCyTdWJrQa8dp\nMCwjuiFXuppmuoBHR9RhG0V+EDDpyTdSULvJsJQSPIBQKkvxi9nMlOXzu44i1vlX\nq/RSMqrN6P9jynisSWAH1JAiesVHzQP63gbMsuDNBfAzvAz5+sBoru6/8PRuyxor\n5S2lV65/AgMBAAECggEAJJjoPXTyaftnWXESNhy3MurRkYCrWrIsQ9TD+Cw8d1vC\nzNOoq/KNzvqq2u/HRFApNV18WOXSP00F5C+iA6z+hksHwj4mLhoC0A7dK7jT/61o\nXAWlkJP5UmAAkUoj6e+p1JWUzlzxtBhGOs1uG8X0TgzPLesTyK+LYNzjbWFGOej9\nMR9o8mqQ7G2ZNETZS68FJoxDZqOPF7sUxqRMgRH8UTZPKZAjcGZ4a+Upd1nA25g2\nWAc1reOO7Kp2iaFqCHE4v4rzMPNsKG6hVWZWgyWLqXSydysWPUWnj0qUSU+NPiek\nybynGMBpV2tCUkzAp9fzgGn1P8nzVehoTUuv3JHTqQKBgQD6j/gJpE8xv7HvMj47\nPNh4DIDdJVbt5eD6ggXq4fO+xyxXiWq6bVzgeBJXR1+qo4UYJComguGb5sQw/Gto\nTHAJES7Vy6SQ194RC5vKDYP2qa/EJnQ53XK0VcSLwf0XOX2d7/1d6ULzL+Xka3GI\nQiBxgxwkxBri2RGkOpCRojtDmQKBgQDGGC/ygr+wiv3oH9gkXVkb5eSsoG0VvNXE\nBT4o7vIiorZhPxtqfrrU5wvnLWIEGXtjL/sm0XdiXmlanS5DWWHx2RICC4oe1MUy\nbH+AtYcb4elKZAN9iRxqDdbeMAx4WYQTzjFHNn52zOgNZ9qKv6RZy4+2ZtfAsYMS\nTipw+7LR1wKBgFIK4AmwLmo4vXd3+R6Gbs7oMS24Mz2UXtVHy848DAa0ytUi3rqK\nYrXxOvgvG6kQ/9yGwvJ3Oo5EworTrAurs6eUY8SHeKwgssrcBTfkswgKSc4tVTM5\nSny39LJaY5e+MF6NnWWpok1kqp7fe35FQMBKUOXM/Iy4zOj8cCfvef5JAoGAUib3\nw4Ab1TBfSmPidHpOGTbHFhxWAPzWPjvaYolt25VVQ5EzYn/6JY9ILXBxxLd4p1Lf\numKGO0JiONUUuZOY/f6C7FwyxMSCn33FhvBBfvu6j0JY/Dffk8/3ex+8HDEriDcr\n0pez7Lrfxad7R61gkGjOSdvuwBgd/npyOXb42vMCgYEAtGyJ/XPnJyvS27wp6bhw\n7TjWe3A23Vz3TpuWVmeAiQE4VCQNjOQowpyEt33mzg44l2hZHG7Z7/HP2HSBeNSV\nYS07x4O3/s2+qQ+9dyebQD7feLXxBNvA+5IYhMy+mYhG2Gl0uF/ohf2jU6IIpXsj\nnqvuIgKfcosbz8taidlfSBo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-auth@zqa-hackathon.iam.gserviceaccount.com",
+  "client_id": "101859245157281034922",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-auth%40zqa-hackathon.iam.gserviceaccount.com"
+}
